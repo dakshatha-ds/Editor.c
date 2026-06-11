@@ -1,0 +1,44 @@
+User: Problem Statement: Write a 2d graphics editor using * and _.
+Write functions to draw a circle, rectangle, line, and triangle.
+You should be able to
+      add objects to the picture,
+      delete objects from the picture, and
+       modify objects in the picture.
+Use a 2d array of characters to store the picture.
+Write a function to display the picture. this is out c programing project ok.and ilready pused into github.and the file name is editor.c...and mam told like this what it mean Dear students,
+For the Mini Project, you may use any Generative AI tool of your choice.
+
+However, you must copy all the prompts used to interact with the GenAI tool, along with the corresponding responses, into a text file. File name should be *prompt.txt.*
+
+The *prompt.txt* file must be uploaded to the same Git repository where the mini project is submitted.  we create anothe
+
+Assistant: Got it — let me break this down clearly for you.  
+Your mini project is the editor.c file (the C program you already pushed to GitHub). Now, your teacher’s instruction about prompt.txt means:
+- Since you used a Generative AI tool (like me, Copilot) to help with your project, you must save all the prompts you typed (your questions/requests) and the responses you received (my answers) into a text file.  
+- The text file must be named exactly prompt.txt.  
+- That file should be uploaded into the same GitHub repository where your editor.c project is stored.  
+
+So your repo will look something like this:
+Editor.c/
+ ├── editor.c        (your C program)
+ ├── prompt.txt      (all AI prompts + responses)
+ └── README.md       (optional, project description)
+
+What to put inside prompt.txt:
+- Every time you asked me something (like “write a function to draw a rectangle” or “how to push to GitHub”), copy that text.  
+- Then copy my full response right below it.  
+- Continue this for all interactions related to your project.  
+
+Example snippet inside prompt.txt:
+User: Problem Statement: Write a 2d graphics editor using * and _.
+Assistant: [full response here]
+
+User: How to push the repository to GitHub step by step?
+Assistant: [full response here]
+
+This way, your teacher can see how you used AI to build the project.  
+Next step for you: create a new file called prompt.txt in your GitHub repo, paste all the prompts and responses, commit, and push it.  
+Do you want me to show you the exact Git commands to add prompt.txt to your repo (just like you did for editor.c)?
+
+---
+
